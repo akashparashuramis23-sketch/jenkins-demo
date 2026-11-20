@@ -1,10 +1,11 @@
 #!/bin/sh
 echo "=========================================="
 echo "Starting Application Build & Execution..."
-echo "Build Version: 1.0.0 - REVISED"
-echo "Updated application script executed successfully!"
-echo "Status: SUCCESS - Latest Revision Verified."
+echo "Project Name   : git-to-build-freestyle"
+echo "Build Version  : 2.0.0 - REVISED"
+echo "Author         : Akash Parashuram Shankhu"
+echo "Application script executed successfully!"
+echo "Status         : SUCCESS - Job Completed."
 echo "=========================================="
-# auto-build trigger test
-# auto-build trigger test
-# auto-build trigger test
+
+
