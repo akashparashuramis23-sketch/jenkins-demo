@@ -1,0 +1,6 @@
+Write-Host "=========================================="
+Write-Host "Starting Application Build & Execution..."
+Write-Host "Build Version: 1.0.0"
+Write-Host "Application script executed successfully!"
+Write-Host "Status: SUCCESS - Job Completed."
+Write-Host "=========================================="
