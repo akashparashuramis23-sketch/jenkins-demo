@@ -1,8 +1,6 @@
-Set-Content -Path app.ps1 -Value '@
 Write-Host "=========================================="
 Write-Host "Starting Application Build & Execution..."
 Write-Host "Build Version: 2.0.0 - REVISED"
 Write-Host "Updated script executed by Jenkins!"
 Write-Host "Status: SUCCESS - Revision 2 Verified."
 Write-Host "=========================================="
-@'
